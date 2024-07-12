@@ -36,8 +36,8 @@ Team Win Recovery Project (TWRP) is an open-source software custom recovery imag
 
 ### Downloads
 
-#### ZIP File
-[Download TWRP ZIP](link-to-twrp-zip-file)
+#### IMG File
+[Download TWRP IMG](https://mega.nz/file/bkcimDCK#tkv6ATvxx_gEUJJ4OD2WQ1WsRPTINRZCc2hTFPg62aY)
 
 *Flash Through Recovery:*
 1. Boot into your current custom recovery.
@@ -46,7 +46,7 @@ Team Win Recovery Project (TWRP) is an open-source software custom recovery imag
 4. Reboot to recovery.
 
 #### TAR File
-[Download TWRP TAR](link-to-twrp-tar-file)
+[Download TWRP TAR](https://mega.nz/file/C0NgmD6S#lWD70RUXsXs_sv-0E5BOHPoitQc8keyorarW0xtXV-4)
 
 *Flash Through Odin:*
 1. Download and install [Odin](https://odindownload.com/).
