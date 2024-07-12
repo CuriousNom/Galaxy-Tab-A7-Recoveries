@@ -9,7 +9,7 @@ OrangeFox Recovery is a custom recovery for Android devices that offers various 
 ### Downloads
 
 #### ZIP File
-[Download OrangeFox ZIP]([link-to-orangefox-zip-file)](https://pixeldrain.com/u/2GXHX8Vf)
+[Download OrangeFox ZIP]([link-to-orangefox-zip-file)]
 
 *Flash Through Recovery:*
 1. Boot into your current custom recovery.
