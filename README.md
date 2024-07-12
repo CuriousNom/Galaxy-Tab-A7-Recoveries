@@ -1,1 +1,0 @@
-# Galaxy-Tab-A7-Recoveries
