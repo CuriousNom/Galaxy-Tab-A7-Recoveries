@@ -9,7 +9,7 @@ OrangeFox Recovery is a custom recovery for Android devices that offers various 
 ### Downloads
 
 #### ZIP File
-[Download OrangeFox ZIP]([link-to-orangefox-zip-file)]
+[Download OrangeFox ZIP]([https://pixeldrain.com/u/2GXHX8Vf)]
 
 *Flash Through Recovery:*
 1. Boot into your current custom recovery.
@@ -18,7 +18,7 @@ OrangeFox Recovery is a custom recovery for Android devices that offers various 
 4. Reboot to recovery.
 
 #### TAR File
-[Download OrangeFox TAR](link-to-orangefox-tar-file)
+[Download OrangeFox TAR](https://pixeldrain.com/u/fuwZ9kyP)
 
 *Flash Through Odin:*
 1. Download and install [Odin](https://odindownload.com/).
