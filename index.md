@@ -11,8 +11,24 @@ OrangeFox Recovery is a custom recovery for Android devices that offers various 
 #### ZIP File
 [Download OrangeFox ZIP](link-to-orangefox-zip-file)
 
+*Flash Through Recovery:*
+1. Boot into your current custom recovery.
+2. Select "Install" and navigate to the downloaded OrangeFox ZIP file.
+3. Swipe to confirm the flash.
+4. Reboot to recovery.
+
 #### TAR File
 [Download OrangeFox TAR](link-to-orangefox-tar-file)
+
+*Flash Through Odin:*
+1. Download and install [Odin](https://odindownload.com/).
+2. Power off your device
+3. Boot your device into Download Mode (Connect tablet to computer, press & hold volume + & - button).
+4. Connect your device to the PC via USB.
+5. Open Odin and load the TAR file in the AP slot. (Untick auto reboot before flashing)
+6. Click "Start" and wait for the process to complete.
+7. Reboot to recovery (Must).
+
 
 ## TWRP Recovery
 
@@ -23,5 +39,20 @@ Team Win Recovery Project (TWRP) is an open-source software custom recovery imag
 #### ZIP File
 [Download TWRP ZIP](link-to-twrp-zip-file)
 
+*Flash Through Recovery:*
+1. Boot into your current custom recovery.
+2. Select "Install" and navigate to the downloaded OrangeFox ZIP file.
+3. Swipe to confirm the flash.
+4. Reboot to recovery.
+
 #### TAR File
 [Download TWRP TAR](link-to-twrp-tar-file)
+
+*Flash Through Odin:*
+1. Download and install [Odin](https://odindownload.com/).
+2. Power off your device
+3. Boot your device into Download Mode (Connect tablet to computer, press & hold volume + & - button).
+4. Connect your device to the PC via USB.
+5. Open Odin and load the TAR file in the AP slot. (Untick auto reboot before flashing)
+6. Click "Start" and wait for the process to complete.
+7. Reboot to recovery (Must).
